@@ -2,6 +2,11 @@
 
 > An interactive web-based laboratory for exploring fundamental image processing concepts through real-time visualizations and pixel-level calculations.
 
+## 🚀 Live Demo
+
+🔗 **[View Image Processing Lab](https://image-processing-lab-ecru.vercel.app/)**
+
+
 ## 📌 Overview
 
 **Image Processing Lab** is a simple and interactive educational application designed to demonstrate how image processing works at the pixel level.
